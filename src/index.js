@@ -24,5 +24,5 @@ if (xpHeroi < 1000) {
     nivelHeroi = "Radiante";
 }
 
-// Exibe a mensagem final com o nome e o nível do herói
+// MSG Final
 console.log(`O Herói de nome ${nomeHeroi} está no nível de ${nivelHeroi} e vai a guerra junto com o Felipão da DIO !`);
